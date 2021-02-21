@@ -1,0 +1,12 @@
+2021-02-17 19:40:28,647 INFO  Sample info message 
+2021-02-17 19:40:28,648 WARN  Sample warn message 
+2021-02-17 19:40:28,648 ERROR Sample error message 
+2021-02-17 19:40:28,648 FATAL Sample fatal message 
+2021-02-17 19:49:56,799 INFO  Sample info message 
+2021-02-17 19:49:56,799 WARN  Sample warn message 
+2021-02-17 19:49:56,800 ERROR Sample error message 
+2021-02-17 19:49:56,800 FATAL Sample fatal message 
+2021-02-17 19:58:27,057 INFO  Sample info message 
+2021-02-17 19:58:27,058 WARN  Sample warn message 
+2021-02-17 19:58:27,058 ERROR Sample error message 
+2021-02-17 19:58:27,058 FATAL Sample fatal message 
